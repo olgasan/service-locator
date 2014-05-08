@@ -3,7 +3,7 @@ using UnityEditor;
 using System;
 using System.IO;
 
-public class LangSystemPlugin
+public class ServiceLocatorPlugin
 {
 	[MenuItem ("Tools/Service Locator/Package", false, 12)]
 	public static void PackageCore ()
